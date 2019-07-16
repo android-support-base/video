@@ -1,4 +1,4 @@
 /**
- * video player library
+ * Video player library
  */
 package com.amlzq.android.video;

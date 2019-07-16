@@ -5,7 +5,7 @@
 
 | groupId | artifactId | version |
 | -------- | -------- | -------- |
-| com.amlzq.android | video | [ ![Download](https://api.bintray.com/packages/amlzq/android-support-base/video/videos/download.svg) ](https://bintray.com/amlzq/android-support-base/video/_latestVersvideon) |
+| com.amlzq.android | video |  |
 
 * 使用
 ```
@@ -22,11 +22,11 @@ dependencies{
 package: com.amlzq.android.video
 ```
 * ./sample
-> sample applicatvideon
+> sample application
 ```
 package: com.amlzq.asb
-appName: video支持库
-applicatvideonId: com.amlzq.asb.video
+appName: Video支持库
+applicationId: com.amlzq.asb.video
 ```
 
 #### 第三方库
@@ -35,6 +35,8 @@ applicatvideonId: com.amlzq.asb.video
 - [danylovolokh/VideoPlayerManager](https://github.com/danylovolokh/VideoPlayerManager)
 - [bilibili/ijkplayer](https://github.com/Bilibili/ijkplayer)
 - [Zhaoss/VideoPlayerDemo-封装bilibili播放器,自定义边下边播和缓存功能](https://github.com/Zhaoss/VideoPlayerDemo)
+- [DKVideoPlayer](https://github.com/dueeeke/DKVideoPlayer)
 
 #### 实践
 - 3月底时间实践
+- 逾期了，警告

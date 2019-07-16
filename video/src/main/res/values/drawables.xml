@@ -1,4 +1,3 @@
 <resources>
-    <item name="pic_default_place" type="drawable" />
-    <item name="pic_default_error" type="drawable" />
+
 </resources>
