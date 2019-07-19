@@ -11,7 +11,7 @@
 ```
 dependencies{
     ...
-    implementatvideon 'com.amlzq.android:video:latest.integratvideon'
+    implementatvideon 'com.amlzq.android:video:latest.integration'
 }
 ```
 
@@ -40,3 +40,13 @@ applicationId: com.amlzq.asb.video
 #### 实践
 - 3月底时间实践
 - 逾期了，警告
+
+- 第一期
+- 播放线上/本地视频
+- 边播边存，缓存机制
+- 可切换VideoPlayer, MediaCodec/FFmpeg
+
+- 第二期
+- 编辑视频
+
+- 第三期
