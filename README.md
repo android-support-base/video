@@ -11,7 +11,7 @@
 ```
 dependencies{
     ...
-    implementatvideon 'com.amlzq.android:video:latest.integration'
+    implementation 'com.amlzq.android:video:latest.integration'
 }
 ```
 
