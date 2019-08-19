@@ -92,5 +92,8 @@ ext {
 
     // amlzq library，Multiple module use
     logVersion = '1.0.4'
-    utilsVersion = '1.0.4'
+    annotationsVersion = '1.0.0'
+    utilsVersion = '1.0.5'
+    uiVersion = '1.0.5'
+    ioVersion = '1.0.1'
 }

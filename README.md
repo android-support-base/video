@@ -1,4 +1,5 @@
 # android-support-video
+- 视频处理(网络，本地，播放，剪辑，存储)库
 
 ## 发布
 * 最新版本
@@ -29,15 +30,16 @@ appName: Video支持库
 applicationId: com.amlzq.asb.video
 ```
 
-#### 第三方库
+### 其他优秀的库
 - [lipangitJiaoZiVideoPlayer](https://github.com/lipangit/JiaoZiVideoPlayer)
 - [ashLikun/JCVideoPlayer](https://github.com/ashLikun/JCVideoPlayer)
 - [danylovolokh/VideoPlayerManager](https://github.com/danylovolokh/VideoPlayerManager)
 - [bilibili/ijkplayer](https://github.com/Bilibili/ijkplayer)
 - [Zhaoss/VideoPlayerDemo-封装bilibili播放器,自定义边下边播和缓存功能](https://github.com/Zhaoss/VideoPlayerDemo)
 - [DKVideoPlayer](https://github.com/dueeeke/DKVideoPlayer)
+- [danikula / AndroidVideoCache](https://github.com/danikula/AndroidVideoCache)
 
-#### 实践
+### 实践
 - 3月底时间实践
 - 逾期了，警告
 
